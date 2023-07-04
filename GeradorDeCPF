@@ -1,5 +1,4 @@
 from random import randint
-import sys
 cpf_nove_digitos = ''
 for i in range(9):
     cpf_nove_digitos += str(randint(0, 9))
